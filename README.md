@@ -14,7 +14,6 @@
     
 [![My Skills](https://skillicons.dev/icons?i=java,idea,vscode,github,linkedin,js,html,css,git,)](https://skillicons.dev)
     
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mutlutüfekci.visitor-badge&left_text=Profile%20views) 
     
       
 
